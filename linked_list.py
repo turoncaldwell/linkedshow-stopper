@@ -1,3 +1,4 @@
+# Updated by collaborator: Added example usage
 class Node:
     def __init__(self, data):
         self.data = data
